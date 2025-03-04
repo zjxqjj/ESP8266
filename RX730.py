@@ -18,7 +18,7 @@ logging.basicConfig(filename='fan_control.log', level=logging.DEBUG,
 # 硬编码 IPMI 配置
 IPMI_IP = "192.168.1.254"
 IPMI_USER = "root"
-IPMI_PASSWORD = "yzf1324.311"
+IPMI_PASSWORD = "密码"
 
 # 风扇最低和最高转速
 MIN_RPM = 0
